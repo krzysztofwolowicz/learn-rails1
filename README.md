@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# Learning Rails
+
+Learning Rails with a tutorial from [learn-rails.com](http://learn-rails.com/).
